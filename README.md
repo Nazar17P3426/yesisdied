@@ -1,2 +1,2 @@
-# yesisdied.exe
-My New Short Malware + Source
+# yesisdied
+C++ short skidded GDI trojan by Hugopako
